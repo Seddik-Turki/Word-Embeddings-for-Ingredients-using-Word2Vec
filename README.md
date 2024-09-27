@@ -6,7 +6,7 @@ This project visualizes word embeddings generated for a dataset of ingredients u
  * Interactive Plot: Hover over any point to reveal the corresponding ingredient name.
  * Zoom Capability: Zoom in to explore clusters of ingredients and their relationships in more detail.
  * Network Graph: Colors indicate the number of node connections, with a heatmap legend on the side to interpret the connection density.
- * The interactive visualization can be accessed [here](). You can interact with the plot directly by hovering over the points to display the ingredient names and zooming in to explore clusters in greater detail.
+ * The interactive visualization can be accessed [here](https://seddik-turki.github.io/Word-Embeddings-for-Ingredients-using-Word2Vec/Word%20Embedding%20Plot.html). You can interact with the plot directly by hovering over the points to display the ingredient names and zooming in to explore clusters in greater detail.
 
 ### Example Visualization
 
